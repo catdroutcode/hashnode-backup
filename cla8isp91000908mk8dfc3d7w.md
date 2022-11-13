@@ -1,6 +1,6 @@
 # Hashnode is creepy
 
-Hashnode is a good blogging plattform but you should reconsider it due to horrible privacy. 
+[Hashnode](https://www.highperformancecpmgate.com/xgtttt6rw?key=505620555b8a717ec8e84c963595f0e9) is a good blogging plattform but you should reconsider it due to [horrible privacy](https://www.highperformancecpmgate.com/xgtttt6rw?key=505620555b8a717ec8e84c963595f0e9). 
 **Hashnode privacy policy**
 Information we collect (3)
 ```Information about your computer and internet connection, including your IP address, operating system, and browser type.``` 
