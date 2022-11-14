@@ -1,4 +1,4 @@
-# JavaScript is dead
+# JavaScript is weird
 
 JavaScript was made under one week and now it has inconsistencies that allows to [JSfuck](http://www.jsfuck.com/) and [JScrewIt](https://jscrew.it/) to exist. This shows that Brendan Eich aimed to make the language fast as possible rather than being stable and reliable as possible. We need to invent a new web scripting language that is actually. enjoyable to use. 
 
